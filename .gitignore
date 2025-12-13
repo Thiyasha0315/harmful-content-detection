@@ -1,0 +1,17 @@
+# Data
+data/raw/
+data/processed/
+
+# Models & results
+models/
+results/
+
+# Notebooks output
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
