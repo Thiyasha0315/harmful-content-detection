@@ -1,0 +1,6 @@
+post_id,platform,topic,label_source,label
+yt_video_1,youtube,politics,manual,Normal
+yt_video_2,youtube,politics,manual,Normal
+yt_video_3,youtube,politics,manual,Hate
+yt_video_4,youtube,politics,manual,Hate
+yt_video_5,youtube,politics,manual,Normal
